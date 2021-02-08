@@ -9,7 +9,7 @@ class BaseApi
 {
     protected $pemFile, $keyFile;
     protected $baseUrl = 'https://api.searchads.apple.com/api/';
-    protected $version = 'v2';
+    protected $version = 'v3';
 
     /**
      * @param string $pemFile full path for .pem file
