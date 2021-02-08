@@ -1,5 +1,6 @@
 {
   "name": "fahad-cb/apple-search-ad",
   "description": "API for Apple Search Ad",
-  "type": "library"
+  "type": "library",
+  "version": "1.1.30"
 }
