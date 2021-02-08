@@ -1,0 +1,17 @@
+.idea
+*.log
+
+#/debug/test.key
+#/debug/test.pem
+/debug/*.p12
+/debug/*/*.p12
+/debug/*.pem
+/debug/*.key
+/debug/webmart/*
+/debug/test-budget.php
+/debug/melsoft/*.pem
+/debug/pixel-gun/*.pem
+/debug/*/*.key
+/debug/*.zip
+/debug/test.p12
+/vendor/
